@@ -1,0 +1,34 @@
+test_area_symmetric_lobe (test_passage_math.TestPassage.test_area_symmetric_lobe) ... ok
+test_gauge_orthogonal_projector (test_passage_math.TestPassage.test_gauge_orthogonal_projector) ... ok
+test_integral_constant_rate (test_passage_math.TestPassage.test_integral_constant_rate) ... ok
+test_reversed_area (test_passage_math.TestPassage.test_reversed_area) ... ok
+test_transversality (test_passage_math.TestPassage.test_transversality) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.002s
+
+OK
+v18.50a CASE autonomous 0.18 beta:2:2
+  PAIRS 3 A1 range [-5.927051145703445e-06, -2.4444102032724284e-06] ledger 6.309518879588083e-13
+v18.50a CASE autonomous 0.24 beta:2:2
+  PAIRS 4 A1 range [-7.699448122848984e-06, -1.1607422817158107e-06] ledger 1.1802364641155805e-13
+v18.50a CASE autonomous 0.24 beta:3:3
+  PAIRS 4 A1 range [-7.74650465056939e-06, -1.1745191597752317e-06] ledger 1.0579332548887876e-12
+v18.50a CASE autonomous 0.327375 beta:2:2
+  PAIRS 4 A1 range [-6.498333065334567e-06, -2.407816148169768e-07] ledger 2.4476323745581396e-12
+v18.50a CASE autonomous 0.5 beta:2:2
+  PAIRS 2 A1 range [-4.45625752895313e-06, -1.0269590656655211e-06] ledger 2.229955803345618e-12
+v18.50a CASE original 0.18 beta:2:2
+  PAIRS 3 A1 range [-5.93328058831307e-06, -2.447786219510539e-06] ledger 6.1571754639278e-13
+v18.50a CASE original 0.24 beta:2:2
+  PAIRS 4 A1 range [-7.707047726525923e-06, -1.1627978287342745e-06] ledger 4.1828172869795566e-13
+v18.50a CASE original 0.24 beta:3:3
+  PAIRS 4 A1 range [-7.754179309007967e-06, -1.1766044071247325e-06] ledger 1.0992439597456993e-12
+v18.50a CASE original 0.327375 beta:2:2
+  PAIRS 4 A1 range [-6.505162682526344e-06, -2.414949466559457e-07] ledger 2.405116036885424e-12
+v18.50a CASE original 0.5 beta:2:2
+  PAIRS 2 A1 range [-4.461550942095911e-06, -1.0288825964535239e-06] ledger 4.388624880169445e-12
+AREA_RATIO {'minimum': 1.6713567646602532, 'maximum': 1.6750765694461045, 'mean': 1.6732712141881063, 'standard_deviation': 0.0010386151581680881}
+v18.50a FIGURES_DONE
+v18.50a REPORT_DONE
+v18.50a SENDBACK_DONE 25 verified SHA-256 entries
