@@ -1,0 +1,33 @@
+test_chain_rule (test_tangent_math.CheckTangent.test_chain_rule) ... ok
+test_cosine_metric (test_tangent_math.CheckTangent.test_cosine_metric) ... ok
+test_fiber (test_tangent_math.CheckTangent.test_fiber) ... ok
+test_metric_scale (test_tangent_math.CheckTangent.test_metric_scale) ... ok
+test_opposed (test_tangent_math.CheckTangent.test_opposed) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.007s
+
+OK
+v18.50b CASE autonomous 0.18 beta:2:2
+  passages 3 5D span angle degrees 97.4114 113.4601 ledger 6.309518879588083e-13
+v18.50b CASE autonomous 0.24 beta:2:2
+  passages 4 5D span angle degrees 59.8149 94.8046 ledger 1.1802364641155805e-13
+v18.50b CASE autonomous 0.24 beta:3:3
+  passages 4 5D span angle degrees 60.7706 95.4113 ledger 1.0579332548887876e-12
+v18.50b CASE autonomous 0.327375 beta:2:2
+  passages 4 5D span angle degrees 25.8576 74.5997 ledger 2.4476323745581396e-12
+v18.50b CASE autonomous 0.5 beta:2:2
+  passages 2 5D span angle degrees 29.7913 48.6197 ledger 2.229955803345618e-12
+v18.50b CASE original 0.18 beta:2:2
+  passages 3 5D span angle degrees 97.4069 113.4505 ledger 6.1571754639278e-13
+v18.50b CASE original 0.24 beta:2:2
+  passages 4 5D span angle degrees 59.8566 94.8366 ledger 4.1828172869795566e-13
+v18.50b CASE original 0.24 beta:3:3
+  passages 4 5D span angle degrees 60.8114 95.4424 ledger 1.0992439597456993e-12
+v18.50b CASE original 0.327375 beta:2:2
+  passages 4 5D span angle degrees 25.8783 74.6004 ledger 2.405116036885424e-12
+v18.50b CASE original 0.5 beta:2:2
+  passages 2 5D span angle degrees 29.8171 48.651 ledger 4.388624880169445e-12
+v18.50b PLOTS_DONE 34
+v18.50b REPORT_DONE
+v18.50b SENDBACK_DONE 23 verified SHA-256 entries
