@@ -1,0 +1,37 @@
+test_angle (test_event_math.TestEvents.test_angle) ... ok
+test_equal_projection (test_event_math.TestEvents.test_equal_projection) ... ok
+test_locus (test_event_math.TestEvents.test_locus) ... ok
+test_logistic (test_event_math.TestEvents.test_logistic) ... ok
+test_max (test_event_math.TestEvents.test_max) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.006s
+
+OK
+v18.49x CASE original 0.12 beta:2:2
+  TURN 0.0897697249 normalized 0.748081 pairs 0 ledger 9.89e-13
+v18.49x CASE original 0.18 beta:2:2
+  TURN 0.0906593486 normalized 0.503663 pairs 3 ledger 6.16e-13
+v18.49x CASE original 0.24 beta:2:2
+  TURN 0.0910476262 normalized 0.379365 pairs 4 ledger 4.18e-13
+v18.49x CASE original 0.327375 beta:2:2
+  TURN 0.0913067086 normalized 0.278906 pairs 4 ledger 2.41e-12
+v18.49x CASE original 0.5 beta:2:2
+  TURN 0.0914947238 normalized 0.182989 pairs 2 ledger 4.39e-12
+v18.49x CASE original 0.24 beta:3:3
+  TURN 0.0912892729 normalized 0.380372 pairs 4 ledger 1.10e-12
+v18.49x CASE autonomous 0.12 beta:2:2
+  TURN 0.0897463248 normalized 0.747886 pairs 0 ledger 5.44e-13
+v18.49x CASE autonomous 0.18 beta:2:2
+  TURN 0.0906349297 normalized 0.503527 pairs 3 ledger 6.31e-13
+v18.49x CASE autonomous 0.24 beta:2:2
+  TURN 0.0910227194 normalized 0.379261 pairs 4 ledger 1.18e-13
+v18.49x CASE autonomous 0.327375 beta:2:2
+  TURN 0.0912814613 normalized 0.278828 pairs 4 ledger 2.45e-12
+v18.49x CASE autonomous 0.5 beta:2:2
+  TURN 0.0914692212 normalized 0.182938 pairs 2 ledger 2.23e-12
+v18.49x CASE autonomous 0.24 beta:3:3
+  TURN 0.0912641152 normalized 0.380267 pairs 4 ledger 1.06e-12
+FIGURES_DONE
+REPORT_DONE
+SENDBACK_DONE 27 manifest members
